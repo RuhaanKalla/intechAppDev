@@ -4,3 +4,5 @@
 #I have used HTML as frontend programming language and JJavascript for backend programming and functionality
 #I have used Google firebase and database support for this app this works on all browsers
 #made by - Ruhaan Kalla 9-G
+#runs on android
+
